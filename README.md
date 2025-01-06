@@ -14,3 +14,5 @@ Aplicando o mesmo padrão do MultiConversor, as imagens da interface do software
 ![image](https://github.com/user-attachments/assets/213405d8-e022-4b67-9b33-9206a914645f)
 
 E assim, desenvolvo mais um software para atender minhas necessidades do dia, e que também tem o poder de ajudar muitas pessoas.
+
+O Software pode ser encontrado na minha página AplicacoesSimples, no link: https://aplicacoessimples.blogspot.com
